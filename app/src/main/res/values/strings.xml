@@ -4,4 +4,5 @@
     <string name="right">右</string>
     <string name="backward">后退</string>
     <string name="left">左</string>
+    <string name="stop">停止</string>
 </resources>
