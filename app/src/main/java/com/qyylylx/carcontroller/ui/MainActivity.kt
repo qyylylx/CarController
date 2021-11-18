@@ -1,4 +1,4 @@
-package com.qyylylx.carcontroller
+package com.qyylylx.carcontroller.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -14,5 +14,6 @@ class MainActivity : AppCompatActivity() {
         binding.Backward.setOnClickListener {  }
         binding.Left.setOnClickListener {  }
         binding.Right.setOnClickListener {  }
+        binding.Stop.setOnClickListener {  }
     }
 }

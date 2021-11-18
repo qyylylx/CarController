@@ -5,4 +5,8 @@
     <string name="backward">后退</string>
     <string name="left">左</string>
     <string name="stop">停止</string>
+    <string name="speed">速度：</string>
+    <string name="time">时间：</string>
+    <string name="entertime">请输入时间</string>
+    <string name="enterspeed">请输入速度</string>
 </resources>
