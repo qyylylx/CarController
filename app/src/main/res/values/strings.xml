@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CarController</string>
+    <string name="forward">前进</string>
+    <string name="right">右</string>
+    <string name="backward">后退</string>
+    <string name="left">左</string>
+</resources>
