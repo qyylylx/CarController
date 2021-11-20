@@ -48,6 +48,7 @@
 
     <Button
         android:id="@+id/Stop"
+        android:visibility="invisible"
         android:layout_width="80dp"
         android:layout_height="80dp"
         android:layout_marginStart="120dp"
@@ -57,6 +58,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
+        android:visibility="invisible"
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -69,6 +71,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
+        android:visibility="invisible"
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -81,6 +84,7 @@
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
     <EditText
+        android:visibility="invisible"
         android:id="@+id/speed"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -94,6 +98,7 @@
         android:inputType="numberDecimal" />
 
     <EditText
+        android:visibility="invisible"
         android:id="@+id/time"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
